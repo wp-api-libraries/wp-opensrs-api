@@ -1,2 +1,3 @@
 # wp-opensrs-api
-A WordPress php library for interacting with the Open SRS API.
+
+A WordPress php library for interacting with the [Open SRS API](http://api.opensrs.com/docs).
